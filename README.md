@@ -1,16 +1,14 @@
-# courses
+#  APPLICATION MANAGEMENT COURSES
 
-A new Flutter project.
 
-## Getting Started
+# Home Page App 
+![](assets/app1.png)  
 
-This project is a starting point for a Flutter application.
+    add new course
+![](assets/add.png) ![](assets/form.png)  
 
-A few resources to get you started if this is your first Flutter project:
+    list of Courses
+![](assets/list.png)  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    delete course like React
+![](assets/delete.png)  
